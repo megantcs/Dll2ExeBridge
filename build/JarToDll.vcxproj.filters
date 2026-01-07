@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\build_item.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\build_jar_to_dll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\global_settings.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\logger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\convertor_logger.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\compile_gnu.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\hex_tools.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\build_dll_to_exe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\files.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\runtime_check.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\timer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\build_sys.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\hex_tools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\files.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\terminal_attribute.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\src\header\build_sys.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5A416C67-B3AC-384D-A74A-3797D3141B5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0554E37F-474E-3BF0-AC0E-475274568C19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

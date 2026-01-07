@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\libstdntc\Desktop\bin\Jar-To-Exe-master\build\CMakeFiles\00045c73d7d4657452950a07ea06c1bf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8980BB74-EBFE-3703-BFE8-8136F89B3CED}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
